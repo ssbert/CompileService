@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RCS", "RCS\RCS.csproj", "{56A37CAF-B1AB-43D2-8C22-15D2D78DC55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A37CAF-B1AB-43D2-8C22-15D2D78DC55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A37CAF-B1AB-43D2-8C22-15D2D78DC55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A37CAF-B1AB-43D2-8C22-15D2D78DC55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A37CAF-B1AB-43D2-8C22-15D2D78DC55B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B53C12EB-DE9D-4DB9-97CC-AE70782D6E6F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.0.6:8080/tfs/framework4
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RCS\\RCS.csproj
+		SccProjectName1 = RCS
+		SccLocalPath1 = RCS
+	EndGlobalSection
+EndGlobal
